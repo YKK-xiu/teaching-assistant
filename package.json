@@ -1,0 +1,19 @@
+{
+  "name": "teaching-assistant",
+  "version": "1.0.0",
+  "description": "面向独立教培老师的备课、教研、知识点、试卷、学生档案、课程表管理应用",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["teaching", "education", "lesson-planning"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "better-sqlite3": "^11.3.0",
+    "multer": "^1.4.5-lts.1",
+    "archiver": "^7.0.1"
+  }
+}

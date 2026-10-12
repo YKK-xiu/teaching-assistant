@@ -1,0 +1,20 @@
+{
+  "name": "教学助手",
+  "short_name": "教学助手",
+  "description": "独立教培老师的备课、教研、知识点、试卷、学生档案、课程表管理工具",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f0ea",
+  "theme_color": "#7d94a6",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
