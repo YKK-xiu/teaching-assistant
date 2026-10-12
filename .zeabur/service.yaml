@@ -1,0 +1,6 @@
+name: teaching-assistant
+runtime: nodejs
+instanceCount: 1
+scaling:
+  min: 1
+  max: 1
